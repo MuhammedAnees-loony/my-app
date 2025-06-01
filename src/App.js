@@ -7,7 +7,8 @@ import medImage from './medid.png';
 import questImage from './quest.png';
 import elecImage from './elec.png';
 // Image should be inside src/
-import { faGithub } from '@fortawesome/free-brands-svg-icons';
+import { FaGithub } from 'react-icons/fa';
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {FaGithub, FaLinkedin,  FaHackerrank } from 'react-icons/fa';
 import { SiLeetcode } from "react-icons/si";
